@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 脚本输出
+factor_mining_output/
+causal_output/
+
+# 样例/临时数据
+_sample*.csv
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
